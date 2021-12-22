@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Data Structures**, **Full Stack Web Development**
 - 💬 Ask me about : **Web Development, Git/Github, C++, C**
-- 💞️ I’m looking to collaborate 
+- 🤝 I’m looking to collaborate 
 - 📫 How to reach me - kradekidrahul@gmail.com  
                         9752704505
                         
