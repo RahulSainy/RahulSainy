@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahulSainy a 3rd year Computer Science Undergraduate from Oriental Institute Of Science And Technology, Bhopal. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/rahul-sainy/"> @RahulSainy  </a> a 3rd year Computer Science Undergraduate from Oriental Institute Of Science And Technology, Bhopal. I'm a Tech Enthusiast, Full Stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.
 
 - 🌱 I’m currently learning **Data Structures**, **Full Stack Web Development**
 - 💬 Ask me about : **Web Development, Git/Github, C++, C, Full Stack Web Development, Digital Marketing**
