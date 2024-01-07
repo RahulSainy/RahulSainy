@@ -26,7 +26,7 @@
 
 <center>
 <h2 align="center">Git Hub Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RahulSainy&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RahulSainy&include_all_commits=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
 <!---
