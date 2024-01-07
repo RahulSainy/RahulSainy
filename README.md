@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/rahul-sainy/"> @RahulSainy  </a> a 4th year Computer Science (IT) Undergraduate from Oriental Institute Of Science And Technology, Bhopal. I'm a Tech Enthusiast, Full Stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.
 
-- 🌱 I’m currently learning **Data Structures**, **Full Stack Development**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine learning**, **Full Stack Development**
 - 💬 Ask me about : **Web Development, Angular, Nodejs, Git/Github, C, Python, Full Stack Development, Network Engineering, Digital Marketing**
 - 🤝 I’m looking to collaborate 
 - 📫 How to reach me - kradekidrahul@gmail.com  
